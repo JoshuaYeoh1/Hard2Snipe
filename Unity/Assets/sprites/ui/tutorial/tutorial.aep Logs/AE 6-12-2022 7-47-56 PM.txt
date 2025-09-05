@@ -1,0 +1,77 @@
+Adobe After Effects v16.0.1 Windows 64 render log for project “tutorial.aep”
+
+Rendering started on 6/12/2022 at 7:47:56 PM
+
+  6/12/2022 7:47:56 PM: Starting composition “aim”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\aim\aim_[##].png    6/12/2022 7:47:56 PM: Finished composition “aim”.
+
+
+  6/12/2022 7:47:56 PM: Starting composition “attack”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\attack\attack_[##].png    6/12/2022 7:47:56 PM: Finished composition “attack”.
+
+
+  6/12/2022 7:47:56 PM: Starting composition “flip”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\flip\flip_[##].png    6/12/2022 7:47:56 PM: Finished composition “flip”.
+
+
+  6/12/2022 7:47:56 PM: Starting composition “go”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\go\go_[##].png    6/12/2022 7:47:56 PM: Finished composition “go”.
+
+
+  6/12/2022 7:47:56 PM: Starting composition “heal”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\heal\heal_[##].png    6/12/2022 7:47:56 PM: Finished composition “heal”.
+
+
+  6/12/2022 7:47:56 PM: Starting composition “jump”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\jump\jump_[##].png    6/12/2022 7:47:56 PM: Finished composition “jump”.
+
+
+  6/12/2022 7:47:56 PM: Starting composition “jump double”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\jump double\jump double_[##].png    6/12/2022 7:47:56 PM: Finished composition “jump double”.
+
+
+  6/12/2022 7:47:56 PM: Starting composition “Loot”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\Loot\Loot_[##].png    6/12/2022 7:47:56 PM: Finished composition “Loot”.
+
+
+  6/12/2022 7:47:56 PM: Starting composition “move”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\move\move_[##].png    6/12/2022 7:47:56 PM: Finished composition “move”.
+
+
+  6/12/2022 7:47:56 PM: Starting composition “numbers”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\numbers\numbers_[##].png    6/12/2022 7:47:56 PM: Finished composition “numbers”.
+
+
+  6/12/2022 7:47:56 PM: Starting composition “open”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\open\open_[##].png    6/12/2022 7:47:56 PM: Finished composition “open”.
+
+
+  6/12/2022 7:47:56 PM: Starting composition “parry”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\parry\parry_[##].png    6/12/2022 7:47:56 PM: Finished composition “parry”.
+
+
+  6/12/2022 7:47:56 PM: Starting composition “reload”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\reload\reload_[##].png    6/12/2022 7:47:56 PM: Finished composition “reload”.
+
+
+  6/12/2022 7:47:56 PM: Starting composition “spawnpoint”.
+
+  Output To: C:\Users\ChapCanai\Desktop\Platformer Assignment\resources\ui\tutorial\spawnpoint\spawnpoint_[##].png    6/12/2022 7:47:56 PM: Finished composition “spawnpoint”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 6/12/2022 at 7:47:56 PM
+
